@@ -7,8 +7,8 @@
  */
 
 class Vline{
-	private $serviceID = "cmo";
-	private $apiSecret = "iV9nZkwQLTxT0-1haIJGjuESnNFKGSD45-fxZWPF-DM";
+	private $serviceID = ""; //fil in your VLINE service ID
+	private $apiSecret = "";//fil in your VLINE API secret key
 	private $userID;
 	private $userDisplayName;
 	private $jwt;
